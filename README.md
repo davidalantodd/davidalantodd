@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is David Todd (he/him/his) am Software Engineering Coach at Multiverse. Our mission is to create a diverse group of future leaders through hands-on apprenticeships in tech.
+My name is David Todd (he/him/his) and I am a Software Engineering Coach at [Multiverse](https://www.multiverse.io/). Our mission is to create a diverse group of future leaders through hands-on apprenticeships in tech.
 
 Current tech stack: JavaScript, Node.js, Express, React, Docker, Java, and C. You can find out more and connect with me on [LinkedIn](https://www.linkedin.com/in/david-alan-todd/).
 
