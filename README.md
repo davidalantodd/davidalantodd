@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is David Todd (he/him/his) and I am a Software Engineering Coach at [Multiverse](https://www.multiverse.io/).
+My name is David Todd (he/him/his) and I am a Software Engineering Coach at [Multiverse](https://www.multiverse.io/). Check out my [portfolio](https://davidalantodd.github.io)!
 
 ### I am...
 
