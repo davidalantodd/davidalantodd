@@ -43,8 +43,7 @@ My name is David Todd (he/him/his) and I am a Software Engineering Coach at [Mul
 ### Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidalantodd&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalantodd&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalantodd&show_icons=true&theme=dark&hide=ranks)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Connect with me!
 <a href="https://linkedin.com/in/david-alan-todd" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-alan-todd" height="20" width="20"/></a></p>
