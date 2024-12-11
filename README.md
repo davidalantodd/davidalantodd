@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-My name is David Todd (he/him/his) and I am a Software Engineering Coach at [Multiverse](https://www.multiverse.io/). Check out my [portfolio](https://davidalantodd.github.io)!
+My name is David Todd (he/him/his) and I'm a software engineer and former college administrator. Currently a Software Engineering Coach at [Multiverse](https://www.multiverse.io/). Check out my [portfolio](https://davidalantodd.github.io)!
 
-### I am...
+### About me
+🌱 I am a software engineering bootcamp instructor and coach to junior developers, mentoring the next generation of engineers at enterprise-level organizations.\
+💻 I enjoy collaborating with other developers to create technical solutions to solve complex problems and drive measurable business impact.\
+👨🏻‍🏫 My background as an educator allows me to communicate technical concepts clearly and mentor junior developers.\
+🧠 I am most interested in human-computer interaction, cybersecurity, data structures & algorithms, image processing, and AI.\
+⚙️ My current tech stack is: JavaScript/Node, React, Java/Spring, Python, Express, Jest, MySQL, MongoDB, Docker, AWS, HTML/CSS.
 
-...a software engineer with knowledge in computer science theory and experience building full-stack applications.
-- Experienced in JavaScript/Node.js, React.js, Express.js, Jest, Sequelize, MySQL, Postman, Docker, Bootstrap, HTML/CSS , Git/GitHub, PostgreSQL, Java/Spring, C#/.NET, C, Ruby, Python, OCaml, Go, and Matlab
-- Interested in human-computer interaction, data structures & algorithms, computer vision/image processing, computer and network security, cryptology, and artificial intelligence.
-
-...an educator and coach with strong communication skills and experience managing complex programs.
-- Experienced in one-to-one coaching, workshop facilitation, teaching, training, student development, program management, data analysis & assessment, and social justice/anti-oppression education.
-- Interested in DEI, inclusive education, teaching pedagogy, applied learning, flipped classrooms, radical candor, growth mindset, counseling, and group dynamics.
 
 ### Tech
 
@@ -40,10 +38,10 @@ My name is David Todd (he/him/his) and I am a Software Engineering Coach at [Mul
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
 
-### Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidalantodd&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalantodd&show_icons=true&theme=dark&hide=ranks)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ### Connect with me!
 <a href="https://linkedin.com/in/david-alan-todd" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-alan-todd" height="20" width="20"/></a></p>
+
+<!-- ### Stats -->
+
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidalantodd&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidalantodd&show_icons=true&theme=dark&hide=ranks)](https://github.com/anuraghazra/github-readme-stats) -->
