@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is David Todd (he/him/his) and I'm a software engineer and former college administrator. Currently a Software Engineering Coach at [Multiverse](https://www.multiverse.io/). Check out my [portfolio](https://davidalantodd.github.io)!
+My name is David Todd (he/him/his) and I'm a full stack developer and former college administrator. Check out my [portfolio](https://davidalantodd.github.io)!
 
 ### About me
-🌱 I am a software engineering bootcamp instructor and coach to junior developers, mentoring the next generation of engineers at enterprise-level organizations.\
-💻 I enjoy collaborating with other developers to create technical solutions to solve complex problems and drive measurable business impact.\
+💻 I'm a full-stack developer at SAIC and I enjoy collaborating with other developers to create technical solutions and drive business impact.\
+🌱 I have experience as a software engineering bootcamp instructor and coach.\
 👨🏻‍🏫 My background as an educator allows me to communicate technical concepts clearly and mentor junior developers.\
 🧠 I am most interested in human-computer interaction, cybersecurity, data structures & algorithms, image processing, and AI.\
-⚙️ My current tech stack is: JavaScript/Node, React, Java/Spring, Python, Express, Jest, MySQL, MongoDB, Docker, AWS, HTML/CSS.
+⚙️ My current tech stack is: JavaScript/Node, React, Vue, C#/.NET, Java/Spring, Python, Express, Jest, MySQL, MongoDB, Docker, AWS, HTML/CSS.
 
 
 ### Tech
@@ -16,6 +16,7 @@ My name is David Todd (he/him/his) and I'm a software engineer and former colleg
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
