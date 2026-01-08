@@ -7,7 +7,7 @@ My name is David Todd (he/him/his) and I'm a full stack developer and former col
 🌱 I have experience as a software engineering bootcamp instructor and coach.\
 👨🏻‍🏫 My background as an educator allows me to communicate technical concepts clearly and mentor junior developers.\
 🧠 I am most interested in human-computer interaction, cybersecurity, data structures & algorithms, image processing, and AI.\
-⚙️ My current tech stack is: JavaScript/Node, React, Vue, C#/.NET, Java/Spring, Python, Express, Jest, MySQL, MongoDB, Docker, AWS, HTML/CSS.
+⚙️ My current tech stack is: JavaScript/TS/Node, React, Vue, C#/.NET, Java/Spring, Python, PostgreSQL, Docker, AWS, HTML/CSS.
 
 
 ### Tech
