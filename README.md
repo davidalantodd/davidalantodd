@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-My name is David Todd (he/him/his) and I'm a full stack developer and former college administrator. Check out my [portfolio](https://davidalantodd.github.io)!
+My name is David Todd (he/him/his) and I'm a mission-driven software engineer who likes to build things that help people. Check out my [portfolio](https://davidalantodd.github.io)!
 
 ### About me
-💻 I'm a full-stack developer at SAIC and I enjoy collaborating with other developers to create technical solutions and drive business impact.\
-🌱 I have experience as a software engineering bootcamp instructor and coach.\
-👨🏻‍🏫 My background as an educator allows me to communicate technical concepts clearly and mentor junior developers.\
-🧠 I am most interested in human-computer interaction, cybersecurity, data structures & algorithms, image processing, and AI.\
-⚙️ My current tech stack is: JavaScript/TS/Node, React, Vue, C#/.NET, Java/Spring, Python, PostgreSQL, Docker, AWS, HTML/CSS.
+💻 I'm currently a full-stack software developer at SAIC.\
+🌱 Since transitioning to software engineering in 2022, I've built full-stack apps for clients, mentored junior engineers, and led the integration of AI tools.\
+👨🏻‍🏫 I spent the first 7 years of my career as a college administrator, and the skills I learned during that time (collaboration, leadership, and problem solving) have become my biggest strengths as a developer.\
+🎯 My goal is to combine my technical skills and experiences in education to build software that solves meaningful problems.\
+🧠 I am interested in human-computer interaction, accessibility, and AI.\
+⚙️ I'm mostly using Vue.js, C#/.NET, PostgreSQL, AWS, and Docker currently, but I also have experience with TypeScript, Node, React, Java/Spring, and Python.
 
 
 ### Tech
